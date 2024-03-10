@@ -1,7 +1,6 @@
 ---
 permalink: /
 title: ""
-excerpt: ""
 author_profile: true
 redirect_from: 
   - /about/
@@ -17,15 +16,29 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+I am currently a graduate student at the KAIST Kim Jaechul School of Artificial Intelligence (KAIST AI) in Seoul, South Korea. I am a researcher at the <a href='https://www.mlai-kaist.com/' target='_blank'>MLAI Lab</a> under the supervision of <a href='http://www.sungjuhwang.com/' target='_blank'>Dr. Sung Ju Hwang</a>. My current research interests include **Hyperparameter Optimization (HPO)**, **few-shot learning**, and **Green AI**. 
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
-
+Throughout my career, I have had the privilege of working with prestigious organizations such as NASA, Columbia University, Penta Group, and the Wall Street Journal. Through my diverse experiences as a data scientist and researcher, I have cultivated a unique skill set that combines technical proficiency with a passion for exploration and innovation.
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.02*: &nbsp;🎉 Started work at the MLAI Lab!
+- *2023.08*: &nbsp;🎙️ Featured as a guest on Lehman College's alumni podcast, <a href='https://www.linkedin.com/posts/activity-7103006926669500416-_Xf6?utm_source=share&utm_medium=member_desktop' target='_blank'>Built in the Bronx</a>.
+- *2023.06*: &nbsp;🧾 My article <a href='https://medium.com/towards-data-science/finding-your-dream-masters-program-in-ai-17f525c89151' target='_blank'>*Finding Your Dream Master’s Program in AI*</a> is published on Towards Data Science.
 
+# 📖 Education
+- *2024.02 - Present*, **Korea Advanced Institute of Science and Technology**, M.S. Artificial Intelligence
+- *2018.08 - 2022.12*, **CUNY Lehman College**, B.S. Computer Science
+
+# 💻 Work Experience
+[<a href='../downloads/SimonAytes_Resume.pdf' target='_blank'>Download Resume</a>] [<a href='https://www.linkedin.com/in/simonaytes/' target='_blank'>LinkedIn</a>]
+
+- *2024.02 - Present*, **Graduate Research Assistant**, KAIST MLAI Lab (Seoul, South Korea)
+- *2021.09 - 2024.02*, **Data Scientist**, Penta Group (New York, NY)
+- *2022.04 - 2022.10*, **Researcher**, York College (New York, NY)
+- *2021.09 - 2021.12*, **Journo-tech Fellow**, Wall Street Journal (New York, NY)
+- *2019.09 - 2021.08*, **Mixed-Reality Research Intern**, NASA Langley Research Center (Hampton, VA)
+
+<!-- TODO -- UPDATE THIS AS NEEDED
 # 📝 Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
@@ -43,16 +56,12 @@ My research interest includes neural machine translation and computer vision. I 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
+- *2022.03* 5th Place in the <a href='https://hsibattleofthebrains.com/history/' target='_blank'>HSI Battle of the Brains</a> in Austin, TX.
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+-->
