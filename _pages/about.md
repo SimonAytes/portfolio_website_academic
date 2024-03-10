@@ -30,7 +30,7 @@ Throughout my career, I have had the privilege of working with prestigious organ
 - *2018.08 - 2022.12*, **CUNY Lehman College**, B.S. Computer Science
 
 # 💻 Work Experience
-[<a href='../downloads/SimonAytes_Resume.pdf' target='_blank'>Download Resume</a>] [<a href='https://www.linkedin.com/in/simonaytes/' target='_blank'>LinkedIn</a>]
+[<a href='../downloads/SimonAytes_Resume.pdf' target='_blank'>Download CV</a>] [<a href='https://www.linkedin.com/in/simonaytes/' target='_blank'>LinkedIn</a>]
 
 - *2024.02 - Present*, **Graduate Research Assistant**, KAIST MLAI Lab (Seoul, South Korea)
 - *2021.09 - 2024.02*, **Data Scientist**, Penta Group (New York, NY)
